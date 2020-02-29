@@ -3,7 +3,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="feature" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -11,5 +11,15 @@
   <component name="ProjectId" id="1YUErzqzvPVunljBokCQTX8Arxq" />
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="494" y="134" key="CommitChangelistDialog2" timestamp="1582989405598">
+      <screen x="0" y="30" width="1680" height="1020" />
+    </state>
+    <state x="494" y="134" key="CommitChangelistDialog2/0.30.1680.1020@0.30.1680.1020" timestamp="1582989405598" />
+    <state x="621" y="253" key="git4idea.branch.GitSmartOperationDialog" timestamp="1582989433017">
+      <screen x="0" y="30" width="1680" height="1020" />
+    </state>
+    <state x="621" y="253" key="git4idea.branch.GitSmartOperationDialog/0.30.1680.1020@0.30.1680.1020" timestamp="1582989433017" />
   </component>
 </project>
