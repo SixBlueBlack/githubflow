@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd877fe2-46b0-4559-b149-66f31f3aa959" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-    </list>
+    <list default="true" id="fd877fe2-46b0-4559-b149-66f31f3aa959" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +13,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="develop" />
+        <entry key="$PROJECT_DIR$" value="release" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -43,6 +39,35 @@
       <option name="presentableId" value="Default" />
       <updated>1583046209440</updated>
     </task>
+    <task id="LOCAL-00001" summary="develop">
+      <created>1583046739522</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583046739522</updated>
+    </task>
+    <task id="LOCAL-00002" summary="develop">
+      <created>1583046802163</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1583046802163</updated>
+    </task>
+    <task id="LOCAL-00003" summary="release">
+      <created>1583046884588</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1583046884588</updated>
+    </task>
+    <task id="LOCAL-00004" summary="1.1.0">
+      <created>1583046909693</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1583046909693</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -50,17 +75,25 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="develop" />
+    <MESSAGE value="release" />
+    <MESSAGE value="1.1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.1.0" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="1094" y="119" key="CommitChangelistDialog2" timestamp="1583046867119">
+    <state x="1094" y="119" key="CommitChangelistDialog2" timestamp="1583047002156">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1094" y="119" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1583046867119" />
+    <state x="1094" y="119" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1583047002156" />
     <state x="1220" y="264" key="FileChooserDialogImpl" timestamp="1583046558677">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
