@@ -12,7 +12,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="feature" />
+        <entry key="$PROJECT_DIR$" value="release" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -63,8 +63,20 @@
     <option name="LAST_COMMIT_MESSAGE" value="feature" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="494" y="136" key="CommitChangelistDialog2" timestamp="1582989089681">
-      <screen x="0" y="30" width="1680" height="1020" />
+    <state x="1094" y="119" key="CommitChangelistDialog2" timestamp="1583046883858">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1094" y="119" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1583046883858" />
+    <state x="1220" y="264" key="FileChooserDialogImpl" timestamp="1583046558677">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1220" y="264" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1583046558677" />
+    <state x="1152" y="239" key="MultipleFileMergeDialog" timestamp="1583046649541">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1152" y="239" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583046649541" />
+    <state x="1221" y="236" key="git4idea.branch.GitSmartOperationDialog" timestamp="1583046636687">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="494" y="136" key="CommitChangelistDialog2/0.30.1680.1020@0.30.1680.1020" timestamp="1582989089681" />
   </component>
