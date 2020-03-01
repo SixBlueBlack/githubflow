@@ -1,1 +1,1 @@
-# githubflow
+# githubflow 1.0
