@@ -17,7 +17,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="develop" />
+        <entry key="$PROJECT_DIR$" value="release" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -57,10 +57,10 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="1094" y="119" key="CommitChangelistDialog2" timestamp="1583046867119">
+    <state x="1094" y="119" key="CommitChangelistDialog2" timestamp="1583046883858">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1094" y="119" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1583046867119" />
+    <state x="1094" y="119" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1583046883858" />
     <state x="1220" y="264" key="FileChooserDialogImpl" timestamp="1583046558677">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
